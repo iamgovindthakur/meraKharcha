@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MeraKharcha",
-    "slug": "MeraKharcha",
+    "name": "HisabKhata",
+    "slug": "HisabKhata",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,10 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.iamgovindthakur.HisabKhata",
+      "versionCode": 1
+    },
     "ios": {
       "supportsTablet": true
     },
